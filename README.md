@@ -96,4 +96,3 @@ Here are some of my featured projects:
 
 ---
 
-Just copy and paste this entire code into your `README.md` file!
