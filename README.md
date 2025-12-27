@@ -51,16 +51,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-# 📊 GitHub Stats
-<div align="center">
-  
-  ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikmehata&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Pratikmehata&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikmehata&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
-  
-</div>
+
 
 
 # 📈 GitHub Activity Graph
@@ -70,19 +61,15 @@
 Here are some of my featured projects:
 
 ### 🤖 **AI/ML Projects**
-- **Project 1:** AI Agent Architect 
+- **Project 1:** AI Agent Architect(LLM Workflow)
 - **Project 2:** Lungs Disease Detection System
 - **Project 3:** Smart Study Planner(working)
 
 
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 # 📫 How to Reach Me
 - **Email:** [pratikmehta061@gmail.com](mailto:pratikmehta061@gmail.com)
 - **LinkedIn:** [Pratik Mehata](https://linkedin.com/in/pratikmehata)
-- **Portfolio:** [Coming Soon!]
+- **Portfolio:** [Pratik Mehata](https://pratikmehata07.netlify.app/)
 
 # 💼 Currently Working On
 - Enhancing my skills in cloud computing (AWS)
@@ -108,8 +95,5 @@ Here are some of my featured projects:
 </div>
 
 ---
-
-6. Activity tracking
-7. Responsive layout
 
 Just copy and paste this entire code into your `README.md` file!
